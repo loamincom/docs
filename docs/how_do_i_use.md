@@ -7,3 +7,5 @@ import requests
 
 requests.post(url, body)
 ```
+
+We have algorithms for XX and YY purposes.
